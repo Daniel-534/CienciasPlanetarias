@@ -1,0 +1,1 @@
+Calcule el tamaño de las magnetosferas de los planetas gigantes del Sistema Solar. Describa el modelo de viento solar que usará para los cálculos. Referencia: Grießmeier, J.-M., Stadelmann, A., Grenfell, J.L., Lammer, H., Motschmann, U., 2009. On the protection of extrasolar Earth-like planets around K/M stars against galactic cosmic rays. Icarus 199, 526–535.
